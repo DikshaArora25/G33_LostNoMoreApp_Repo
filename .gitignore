@@ -1,0 +1,7 @@
+manage.py
+
+requirements.txt
+
+env/
+
+db.sqlite3
